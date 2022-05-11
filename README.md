@@ -111,9 +111,9 @@ Hands-on Training and Practice Exercises
   * [Hack This Site](https://www.hackthissite.org/) - Web application security exercises.
   * [RopeyTasks](https://github.com/iriusrisk/RopeyTasks) - Simple deliberately vulnerable web application.
   * [Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
-  * [TryHackMe](https://tryhackme.com/)
+  * [TryHackMe](https://tryhackme.com/) - Online platform for learning cyber security using hands-on exercises and labs
 
-TryHackMe Beginner Paths (Online platform for learning cyber security, using hands-on exercises and labs)
+TryHackMe Beginner Paths (Online platform for learning cyber security using hands-on exercises and labs)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
   * [Web Fundamentals Path](https://tryhackme.com/path/outline/web)
@@ -137,7 +137,7 @@ Cybersecurity News Websites
   * [Cyber News](https://cybernews.com/)
   * [The Register](https://www.theregister.com/)
   * [Cyber News](https://www.reddit.com/r/CyberNews/)
-  * [Dark Reading}(https://www.darkreading.com/)
+  * [Dark Reading](https://www.darkreading.com/)
   * [Daniel Messler Monthly Newsletter](https://danielmiessler.com/newsletter/)
 
   Darknet Diaries Hacking Episodes to Pique Your Interest
